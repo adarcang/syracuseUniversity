@@ -1,0 +1,20 @@
+install.packages("sf")
+install.packages("tidyverse")
+install.packages("leaflet")
+install.packages("sp")
+install.packages("RODBC")
+install.packages("readxl")
+
+library(sf)
+library(tidyverse)
+library(leaflet)
+library(sp)
+library(RODBC)
+library(readxl)
+
+setwd("C:/Users/adarcangelo/Documents/GitHub/syracuseUniversity")
+salaries <- read_excel("University Salaries.xlsx")
+
+View(salaries)
+str(salaries)
+summary(salaries)

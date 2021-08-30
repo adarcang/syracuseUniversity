@@ -1,0 +1,34 @@
+Week One: What is Data Science?
+
+Agenda: Session One
+1. Introductions and Ice Breaker
+  Name
+  Grade Fall 2021
+  Most difficult thing about learning during pandemic
+  Favorite summer activity
+
+2. Admin Stuff
+  Overview/intro to the course
+  Logistics of the course
+  Slack overview
+  Expectations
+  Course time: Tues Thurs 4:30 - 6pm
+  'Office' hours: Thurs 6:30 - 7:30pm
+
+3. Goal setting activity
+  In the general Slack channel, please write one goal you are interested in accomplishing during this course.
+
+
+Agenda: Session Two
+1. Why Data?
+2. Different Areas of Data
+3. Data Types
+    Boolean: a binary variable, having two possible values TRUE or FALSE
+    Numeric: a variable expressed explicitly as a number -infinity through infinity.
+             this can be expressed as an INT (a whole number) or a FLOAT (a decimal)
+    Categorical: a variable represented through a number representing a category.
+             this number cannot be used in numeric analysis.
+    String: a variable stored as simple text.
+            often these are narrative variables or variables joined to categoricals describing those categories.
+4. Data Literacy and Data Communication
+    Why telling a story through data is key
